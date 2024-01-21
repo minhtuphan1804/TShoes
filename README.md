@@ -2,5 +2,5 @@
 
 
 Used:
-FE: ReactJs
+FE: ReactJs|  
 BE: Spring boot + RestfulAPI
